@@ -10,7 +10,7 @@ StopWatch é um app público de cronometro disponível para todos.
   <img alt="StopWatch" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## ✔ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 

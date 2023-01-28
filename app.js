@@ -70,6 +70,10 @@ window.onload = function() {
 			} else {
 				document.getElementById('Minutos').innerHTML = `${minutos} minutos`
 			}
+
+			if(document.getElementById('Minutos').classList.item('hide')) {
+				document.getElementById('Minutos').classList.remove('hide')
+			}
 		}
 
 	}
