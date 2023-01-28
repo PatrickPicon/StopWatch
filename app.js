@@ -70,18 +70,8 @@ window.onload = function() {
 			} else {
 				document.getElementById('Minutos').innerHTML = `${minutos} minutos`
 			}
-			
-			
 		}
 
-	}
-
-	function pararContador(botaoStop) {
-		
-	}
-
- 	function resetarContador(botaoReset) {
-		
 	}
 }
 
