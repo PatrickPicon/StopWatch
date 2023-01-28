@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O StopWatch é um app para ajudar a sempre ficar no controle do seu tempo.
 
-- [Visite o projeto online] (https://patrickpicon.github.io/nlw-setup/)
+- [Visite o projeto online] (https://patrickpicon.github.io/StopWatch/)
